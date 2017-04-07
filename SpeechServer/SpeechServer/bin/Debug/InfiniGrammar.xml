@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Grammar validity="0.2">
+  
+  <!-- Choices -->
+  <Choices id="action">
+    <item>move</item>
+    <item>attack</item>
+  </Choices>
+
+  <Choices id="cam">
+	<item>camera</item>
+  </Choices>
+  
+  <Choices id="camOptions">
+	<item>move</item>
+	<item>rotate</item>
+	<item>defocus</item>
+  </Choices>
+  
+  <Choices id="unitType">
+    <item>Alpha</item>
+    <item>Bravo</item>
+    <item>Charlie</item>
+    <item>Delta</item>
+    <item>Echo</item>
+    <item>Foxtrot</item>
+    <item>Golf</item>
+    <item>Hotel</item>
+    <item>India</item>
+    <item>Juliet</item>
+  </Choices>
+  
+  <Choices id="multipleSelection">
+	<item>all units</item>
+	<item>selected group</item>
+  </Choices>
+  
+  <Choices id="target">
+    <item>nearest enemy</item>
+  </Choices>
+  
+  <Choices id="special">
+	<item>ORIBTAL STRIKE!</item>
+	<item>FIRE</item>
+  </Choices>
+  
+  <!-- Grammar Builder -->
+  <GrammarBuilder id="singularCommands">
+	<item ref="special" tagType = "Choices"/>
+  </GrammarBuilder>
+  
+  <GrammarBuilder id="cameraCommand">
+	<item ref="cam" tagType="Choices" />
+	<item ref="camOptions" tagType="Choices" />
+  </GrammarBuilder>
+  
+			<!-- Singular units -->
+  <GrammarBuilder id="unitCommand">
+    <item>unit</item>
+    <item ref="unitType" tagType="Choices" />
+  </GrammarBuilder>
+
+  <GrammarBuilder id="basicMoveCommand">
+    <item ref="unitCommand" tagType="GrammarBuilder" />
+    <item>move</item>
+  </GrammarBuilder>
+
+  <GrammarBuilder id="actionCommand">
+    <item ref="unitCommand" tagType="GrammarBuilder" />
+    <item ref="action" tagType="Choices" />
+    <item ref="target" tagType="Choices" />
+  </GrammarBuilder>
+
+			<!-- Multiple units -->
+  <GrammarBuilder id="basicMoveCommand_multiple">
+	<item ref="multipleSelection" tagType="Choices" />
+	<item>move</item>
+  </GrammarBuilder>
+
+  <GrammarBuilder id="actionCommand_multiple">
+	<item ref="multipleSelection" tagType="Choices" />
+	<item ref="action" tagType="Choices" />
+	<item ref="target" tagType="Choices" />
+  </GrammarBuilder>
+	
+	
+  <!-- Final Grammar -->
+  <GrammarChoices>
+	<command ref="singularCommands" />
+    <command ref="basicMoveCommand" />
+    <command ref="actionCommand" />
+	<command ref="basicMoveCommand_multiple" />
+	<command ref="actionCommand_multiple" />
+	<command ref="cameraCommand" />
+  </GrammarChoices>
+  
+  <!-- Additional Grammar Parser -->
+  <GrammarParser seperator=":">
+	<order ref="special" />
+	<order ref="cam" />
+	<order ref="camOptions" />
+	<order ref="action"  		   />
+	<order ref="multipleSelection" />
+	<order ref="unitType"		   />
+	<order ref="target"			   />
+	
+	
+  </GrammarParser>
+  
+</Grammar>

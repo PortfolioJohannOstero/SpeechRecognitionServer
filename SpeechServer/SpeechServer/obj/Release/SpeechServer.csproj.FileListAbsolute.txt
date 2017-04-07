@@ -1,0 +1,18 @@
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\SpeechServer\SpeechServer\SpeechServer\bin\Release\SpeechServer.exe.config
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\SpeechServer\SpeechServer\SpeechServer\bin\Release\SpeechServer.exe
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\SpeechServer\SpeechServer\SpeechServer\bin\Release\SpeechServer.pdb
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\SpeechServer\SpeechServer\SpeechServer\obj\Release\SpeechServer.csprojResolveAssemblyReference.cache
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\SpeechServer\SpeechServer\SpeechServer\obj\Release\SpeechServer.exe
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\SpeechServer\SpeechServer\SpeechServer\obj\Release\SpeechServer.pdb
+C:\Users\p4220933\Desktop\UnitySpeech\SpeechServer\SpeechServer\bin\Release\SpeechServer.exe.config
+C:\Users\p4220933\Desktop\UnitySpeech\SpeechServer\SpeechServer\obj\Release\SpeechServer.exe
+C:\Users\p4220933\Desktop\UnitySpeech\SpeechServer\SpeechServer\obj\Release\SpeechServer.pdb
+C:\Users\p4220933\Desktop\UnitySpeech\SpeechServer\SpeechServer\bin\Release\SpeechServer.exe
+C:\Users\p4220933\Desktop\UnitySpeech\SpeechServer\SpeechServer\bin\Release\SpeechServer.pdb
+C:\Users\p4220933\Desktop\UnitySpeech\SpeechServer\SpeechServer\obj\Release\SpeechServer.csprojResolveAssemblyReference.cache
+C:\Users\JóHanna\Downloads\SpeechServerSource\SpeechServer\SpeechServer\bin\Release\SpeechServer.exe.config
+C:\Users\JóHanna\Downloads\SpeechServerSource\SpeechServer\SpeechServer\obj\Release\SpeechServer.exe
+C:\Users\JóHanna\Downloads\SpeechServerSource\SpeechServer\SpeechServer\obj\Release\SpeechServer.pdb
+C:\Users\JóHanna\Downloads\SpeechServerSource\SpeechServer\SpeechServer\bin\Release\SpeechServer.exe
+C:\Users\JóHanna\Downloads\SpeechServerSource\SpeechServer\SpeechServer\bin\Release\SpeechServer.pdb
+C:\Users\JóHanna\Downloads\SpeechServerSource\SpeechServer\SpeechServer\obj\Release\SpeechServer.csprojResolveAssemblyReference.cache

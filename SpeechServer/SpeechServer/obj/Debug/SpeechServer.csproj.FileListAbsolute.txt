@@ -1,0 +1,35 @@
+C:\Users\p4220933\Desktop\SpeechServer\SpeechServer\SpeechServer\bin\Debug\SpeechServer.exe.config
+C:\Users\p4220933\Desktop\SpeechServer\SpeechServer\SpeechServer\bin\Debug\SpeechServer.exe
+C:\Users\p4220933\Desktop\SpeechServer\SpeechServer\SpeechServer\bin\Debug\SpeechServer.pdb
+C:\Users\p4220933\Desktop\SpeechServer\SpeechServer\SpeechServer\obj\Debug\SpeechServer.csprojResolveAssemblyReference.cache
+C:\Users\p4220933\Desktop\SpeechServer\SpeechServer\SpeechServer\obj\Debug\SpeechServer.exe
+C:\Users\p4220933\Desktop\SpeechServer\SpeechServer\SpeechServer\obj\Debug\SpeechServer.pdb
+d:\Users\suuunly\Desktop\SpeechServer\SpeechServer\bin\Debug\SpeechServer.exe.config
+d:\Users\suuunly\Desktop\SpeechServer\SpeechServer\obj\Debug\SpeechServer.exe
+d:\Users\suuunly\Desktop\SpeechServer\SpeechServer\obj\Debug\SpeechServer.pdb
+d:\Users\suuunly\Desktop\SpeechServer\SpeechServer\bin\Debug\SpeechServer.exe
+d:\Users\suuunly\Desktop\SpeechServer\SpeechServer\bin\Debug\SpeechServer.pdb
+d:\Users\suuunly\Desktop\SpeechServer\SpeechServer\obj\Debug\SpeechServer.csprojResolveAssemblyReference.cache
+C:\Users\p4220933\Desktop\SpeechServer\SpeechServer\bin\Debug\SpeechServer.exe.config
+C:\Users\p4220933\Desktop\SpeechServer\SpeechServer\bin\Debug\SpeechServer.exe
+C:\Users\p4220933\Desktop\SpeechServer\SpeechServer\bin\Debug\SpeechServer.pdb
+C:\Users\p4220933\Desktop\SpeechServer\SpeechServer\obj\Debug\SpeechServer.exe
+C:\Users\p4220933\Desktop\SpeechServer\SpeechServer\obj\Debug\SpeechServer.pdb
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\SpeechServer\SpeechServer\SpeechServer\bin\Debug\SpeechServer.exe.config
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\SpeechServer\SpeechServer\SpeechServer\obj\Debug\SpeechServer.exe
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\SpeechServer\SpeechServer\SpeechServer\obj\Debug\SpeechServer.pdb
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\SpeechServer\SpeechServer\SpeechServer\bin\Debug\SpeechServer.exe
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\SpeechServer\SpeechServer\SpeechServer\bin\Debug\SpeechServer.pdb
+U:\Homework\Year 2\Multimodal Interfaces for Games\ICA 2\SpeechServer\SpeechServer\SpeechServer\obj\Debug\SpeechServer.csprojResolveAssemblyReference.cache
+C:\Users\p4220933\Desktop\UnitySpeech\SpeechServer\SpeechServer\bin\Debug\SpeechServer.exe.config
+C:\Users\p4220933\Desktop\UnitySpeech\SpeechServer\SpeechServer\obj\Debug\SpeechServer.exe
+C:\Users\p4220933\Desktop\UnitySpeech\SpeechServer\SpeechServer\obj\Debug\SpeechServer.pdb
+C:\Users\p4220933\Desktop\UnitySpeech\SpeechServer\SpeechServer\bin\Debug\SpeechServer.exe
+C:\Users\p4220933\Desktop\UnitySpeech\SpeechServer\SpeechServer\bin\Debug\SpeechServer.pdb
+C:\Users\p4220933\Desktop\UnitySpeech\SpeechServer\SpeechServer\obj\Debug\SpeechServer.csprojResolveAssemblyReference.cache
+C:\Users\JóHanna\Downloads\SpeechServerSource\SpeechServer\SpeechServer\bin\Debug\SpeechServer.exe.config
+C:\Users\JóHanna\Downloads\SpeechServerSource\SpeechServer\SpeechServer\obj\Debug\SpeechServer.exe
+C:\Users\JóHanna\Downloads\SpeechServerSource\SpeechServer\SpeechServer\obj\Debug\SpeechServer.pdb
+C:\Users\JóHanna\Downloads\SpeechServerSource\SpeechServer\SpeechServer\bin\Debug\SpeechServer.exe
+C:\Users\JóHanna\Downloads\SpeechServerSource\SpeechServer\SpeechServer\bin\Debug\SpeechServer.pdb
+C:\Users\JóHanna\Downloads\SpeechServerSource\SpeechServer\SpeechServer\obj\Debug\SpeechServer.csprojResolveAssemblyReference.cache

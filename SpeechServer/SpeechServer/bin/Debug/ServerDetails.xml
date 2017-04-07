@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ServerDetails>
+  <IP>127.0.0.1</IP>
+  <Port>26000</Port>
+  <PacketSize>512</PacketSize>
+</ServerDetails>
